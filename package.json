@@ -1,0 +1,16 @@
+{
+  "name": "bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "111.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "minecraft-protocol": "^1.9.4",
+    "minecraft-protocol-forge": "^1.0.0"
+  }
+}
